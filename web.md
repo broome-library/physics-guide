@@ -20,6 +20,5 @@
 
 > A website maintained by the Institute of Physics and includes: a database with over 4,000 physics websites, career possibilities, and a wealth of more information.
 
-## [Yahoo Physics Directory](http://dir.yahoo.com/Science/Physics/)
 
-> A directory of various physics related websites organized by Yahoo.
+
